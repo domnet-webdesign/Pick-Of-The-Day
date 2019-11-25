@@ -150,6 +150,8 @@ nav ul li{
 
 .pick-header .fn9 {
     color: #003674;
+    font-size: 3rem;
+    font-weight: bold;
 }
 .pick-header .fn10 {
     color: #f26b31;
@@ -178,6 +180,84 @@ nav ul li{
     font-size: 1.2rem;
     text-align: justify;
 }
+
+/* Blog content */
+.blog-image .blog-features {
+    padding: 1rem;
+}
+
+
+/* footer start */
+
+#footer {
+    background: #222831;
+}
+
+.footer-logo p{
+    color: #f26b31;
+    font-size: 1.2rem;
+    padding: 1rem;
+}
+
+.social-icons11 span a:hover {
+    color: #f26b31;
+}
+
+.footer-link h3 {
+    color: #ddd;
+    font-size: 2.4rem;
+    font-weight: 600;
+}
+.quick-link ul li {
+    list-style: none;
+}
+
+.quick-link ul li a{
+    color: #fff;
+    padding-bottom: 1.5rem;
+    font-size: 1.2rem;
+}
+
+.quick-link ul li a:hover{
+    text-decoration: none;
+}
+
+form .btn {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+.company-name{
+    background: #003674;
+    font-weight: 600;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    
+}
+.company-name p {
+    color: #f26b31;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
